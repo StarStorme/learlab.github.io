@@ -5,43 +5,51 @@
     link: https://www.sciencedirect.com/science/article/pii/S1075293524000588?via%3Dihub
 
 - id: doi:10.1145/3640543.3645142
+image: https://www.success.com/wp-content/uploads/legacy/sites/default/files/main/blogposts/journaling.jpg
   extra-links:
   - type: conference
     link: https://dl.acm.org/doi/10.1145/3640543.3645142
 
 - id: doi:10.17239/jowr-2024.15.03.01
+image: https://dl.acm.org/cms/asset/beb795b1-eab9-44b9-9452-9d35641f1164/3640543.cover.jpg
   extra-links:
   - type: journal
     link: https://jowr.org/pkp/ojs/index.php/jowr/article/view/920
 
 - id: doi:10.1007/s40593-023-00386-7
+image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-023-00386-7
 
 - id: doi:10.1007/s11145-021-10229-3
+image: https://media.springernature.com/w316/springer-static/cover-hires/journal/11145?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s11145-021-10229-3
 
 
 - id: doi:10.1007/s40593-024-00395-0
+image: https://media.springernature.com/w316/springer-static/cover-hires/journal/40593?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.1007/s40593-024-00395-0
 
 
 - id: doi:10.1515/applirev-2020-0048
+image: https://www.degruyter.com/document/cover/journal_key/ALR/product_pages
   extra-links:
   - type: journal
     link: https://www.degruyter.com/document/doi/10.1515/applirev-2020-0048/html
 
 - id: doi:10.3758/s13428-023-02324-w
+image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
   - type: journal
     link: https://pubmed.ncbi.nlm.nih.gov/38158554/#:~:text=This%20study%20documents%20and%20assesses,S%C3%A1nchez%2DGuti%C3%A9rrez%20et%20al.%2C
 
 - id: doi:10.1080/02702711.2024.2359925
+image: https://www.tandfonline.com/action/showCoverImage?journalCode=urpy20
   extra-links:
   - type: journal
     link: https://www.tandfonline.com/doi/fu
@@ -81,13 +89,13 @@
     link: https://zenodo.org/record/8436731
 
 - id: doi:10.18653/v1/2023.bea-1.21
-  image: images/publications/analyzing-bias-in-llm-solutions.png
+  image: https://aclanthology.org/images/acl-logo.svg
   extra-links:
   - type: journal
     link: https://aclanthology.org/2023.bea-1.21/
 
 - id: doi:10.1177/02655322221147924
-  image: https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ltja/2022/ltja_39_4/ltja_39_4/20220924-01/ltja_39_4.largecover.png
+  image: https://www.isme.org/sites/default/files/styles/resize_1170_wide/public/images/Sage.png?itok=BrkgJjq-
   extra-links:
   - type: journal
     link: https://journals.sagepub.com/doi/10.1177/02655322221147924
@@ -95,13 +103,13 @@
     link: https://zenodo.org/records/10537257
 
 - id: doi:10.3389/fpsyg.2023.1068685
-  image: images/publications/frontiers-in-psychology.png
+  image: https://pic2.zhimg.com/v2-81e9df39472e1f11f953e4515bf82719_r.jpg
   extra-links:
   - type: journal
     link: https://www.frontiersin.org/articles/10.3389/fpsyg.2023.1068685/full
 
 - id: doi:10.3758/s13428-022-01802-x
-  image: https://media.springernature.com/w120/springer-static/cover/journal/13428.jpg?as=webp
+  image: https://media.springernature.com/w316/springer-static/cover-hires/journal/13428?as=webp
   extra-links:
   - type: journal
     link: https://link.springer.com/article/10.3758/s13428-022-01802-x
@@ -113,10 +121,10 @@
     link: https://www.tandfonline.com/doi/full/10.1080/13670050.2020.1838434
 
 - id: doi:10.1145/3576050.3576098
-  image: https://zenodo.org/api/iiif/record:10529690:plot.png/full/!800,800/0/default.png
+  image: https://dl.acm.org/cms/asset/7272b869-4e22-40d7-ae53-3d04c4e4e56f/3576050.cover.jpg
   extra-links:
   - type: journal
-    link: https://link.springer.com/chapter/10.1007/978-3-031-36336-8_75
+    link: https://dl.acm.org/doi/10.1145/3576050.3576098
   - type: preprint
     link: https://zenodo.org/records/10529690
 
